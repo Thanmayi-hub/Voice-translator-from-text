@@ -1,0 +1,7 @@
+{
+  "name": "LinguoVoice - Advanced AI Translator & TTS",
+  "description": "A high-fidelity text-to-voice translator supporting global languages with AI-powered translation and natural speech synthesis using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
